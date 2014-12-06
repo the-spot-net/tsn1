@@ -6,10 +6,10 @@
 
 $dbms = 'mysql';
 
-$dbhost = 'members.lycos.co.uk';
-$dbname = 'neoetbu_uk_db';
-$dbuser = 'neoetbu';
-$dbpasswd = 'jamiej';
+$dbhost = '';
+$dbname = '';
+$dbuser = '';
+$dbpasswd = '';
 
 $table_prefix = 'phpbb_';
 
